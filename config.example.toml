@@ -22,7 +22,7 @@ tls_verify = true
 # Use straight ASCII double quotes around each key. Smart quotes copied from rich text will break TOML parsing.
 # 请使用英文半角双引号包裹每个 Key；从富文本复制来的弯引号会导致 TOML 解析失败。
 # 特别注意格式，Key 用英文双引号括起来，多个Key用逗号隔开
-pexels_api_keys = []
+pexels_api_keys = [ltuLU6TGVwtzIA0ka8ZWKI5QcT9lswJrh0OEAze2bkSAML5Xsio8AY2h]
 
 # Pixabay API Key
 # Register at https://pixabay.com/api/docs/ to get your API key.
@@ -31,7 +31,7 @@ pexels_api_keys = []
 # Use straight ASCII double quotes around each key. Smart quotes copied from rich text will break TOML parsing.
 # 请使用英文半角双引号包裹每个 Key；从富文本复制来的弯引号会导致 TOML 解析失败。
 # 特别注意格式，Key 用英文双引号括起来，多个Key用逗号隔开
-pixabay_api_keys = []
+pixabay_api_keys = [56325390-c55315bd75252fc50b6c3ea60]
 
 # Coverr API Key
 # Register at https://coverr.co/developers?ctx=header_navigation to get your API key instantly.
@@ -46,7 +46,7 @@ pixabay_api_keys = []
 # Use straight ASCII double quotes around each key. Smart quotes copied from rich text will break TOML parsing.
 # 请使用英文半角双引号包裹每个 Key；从富文本复制来的弯引号会导致 TOML 解析失败。
 # 特别注意格式，Key 用英文双引号括起来，多个Key用逗号隔开
-coverr_api_keys = []
+coverr_api_keys = [ea835144baf0790dda4247a36b9cd722]
 
 # 支持的提供商 (Supported providers):
 #   openai
